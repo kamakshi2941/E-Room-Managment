@@ -1,0 +1,23 @@
+\\Mac\Home\Documents\Visual Studio Projects\ERoomManagement\ERoomManagementConsole\bin\Debug\ERoomManagementConsole.exe.config
+\\Mac\Home\Documents\Visual Studio Projects\ERoomManagement\ERoomManagementConsole\bin\Debug\ERoomManagementConsole.exe
+\\Mac\Home\Documents\Visual Studio Projects\ERoomManagement\ERoomManagementConsole\bin\Debug\ERoomManagementConsole.pdb
+\\Mac\Home\Documents\Visual Studio Projects\ERoomManagement\ERoomManagementConsole\obj\Debug\ERoomManagementConsole.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio Projects\ERoomManagement\ERoomManagementConsole\obj\Debug\ERoomManagementConsole.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Documents\Visual Studio Projects\ERoomManagement\ERoomManagementConsole\obj\Debug\ERoomManagementConsole.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Visual Studio Projects\ERoomManagement\ERoomManagementConsole\obj\Debug\ERoomManagementConsole.exe
+\\Mac\Home\Documents\Visual Studio Projects\ERoomManagement\ERoomManagementConsole\obj\Debug\ERoomManagementConsole.pdb
+C:\Users\DELL\Downloads\ERoomManagement\ERoomManagement\ERoomManagementConsole\bin\Debug\ERoomManagementConsole.exe.config
+C:\Users\DELL\Downloads\ERoomManagement\ERoomManagement\ERoomManagementConsole\bin\Debug\ERoomManagementConsole.exe
+C:\Users\DELL\Downloads\ERoomManagement\ERoomManagement\ERoomManagementConsole\bin\Debug\ERoomManagementConsole.pdb
+C:\Users\DELL\Downloads\ERoomManagement\ERoomManagement\ERoomManagementConsole\obj\Debug\ERoomManagementConsole.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\ERoomManagement\ERoomManagement\ERoomManagementConsole\obj\Debug\ERoomManagementConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Downloads\ERoomManagement\ERoomManagement\ERoomManagementConsole\obj\Debug\ERoomManagementConsole.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\ERoomManagement\ERoomManagement\ERoomManagementConsole\obj\Debug\ERoomManagementConsole.exe
+C:\Users\DELL\Downloads\ERoomManagement\ERoomManagement\ERoomManagementConsole\obj\Debug\ERoomManagementConsole.pdb
+C:\Users\kamak\OneDrive\Desktop\Project_Group7\Project_Group7\ERoomManagement\ERoomManagement\ERoomManagement\ERoomManagementConsole\bin\Debug\ERoomManagementConsole.exe.config
+C:\Users\kamak\OneDrive\Desktop\Project_Group7\Project_Group7\ERoomManagement\ERoomManagement\ERoomManagement\ERoomManagementConsole\bin\Debug\ERoomManagementConsole.exe
+C:\Users\kamak\OneDrive\Desktop\Project_Group7\Project_Group7\ERoomManagement\ERoomManagement\ERoomManagement\ERoomManagementConsole\bin\Debug\ERoomManagementConsole.pdb
+C:\Users\kamak\OneDrive\Desktop\Project_Group7\Project_Group7\ERoomManagement\ERoomManagement\ERoomManagement\ERoomManagementConsole\obj\Debug\ERoomManagementConsole.csproj.AssemblyReference.cache
+C:\Users\kamak\OneDrive\Desktop\Project_Group7\Project_Group7\ERoomManagement\ERoomManagement\ERoomManagement\ERoomManagementConsole\obj\Debug\ERoomManagementConsole.csproj.CoreCompileInputs.cache
+C:\Users\kamak\OneDrive\Desktop\Project_Group7\Project_Group7\ERoomManagement\ERoomManagement\ERoomManagement\ERoomManagementConsole\obj\Debug\ERoomManagementConsole.exe
+C:\Users\kamak\OneDrive\Desktop\Project_Group7\Project_Group7\ERoomManagement\ERoomManagement\ERoomManagement\ERoomManagementConsole\obj\Debug\ERoomManagementConsole.pdb
